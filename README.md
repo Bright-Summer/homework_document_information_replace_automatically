@@ -1,0 +1,2 @@
+# homework_document_information_replace_automatically
+将老师在Canvas上发布的作业文档（.md）中姓名等信息自动替换，并删除多余的提示信息
